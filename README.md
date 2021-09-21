@@ -17,4 +17,4 @@ Example template datasheets from the paper [Datasheets for Datasets](https://arx
 This template uses [mdbook](https://github.com/rust-lang/mdBook).
 Follow the [installation instructions](https://github.com/rust-lang/mdBook) to install `mdbook`.
 
-Then, run `mdbook serve` and open `http://localhost:3000` in your browser to see the book.
+Then, run `mdbook serve` and open [http://localhost:3000]() in your browser to see the book.
